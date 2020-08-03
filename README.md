@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png" />
+<img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png"/>
 
 # Hi there, I'm Fahad 👋
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I am an Embedded Engineer. In layman's terms I am both a Hardware Engineer and a Software Engineer. I am competent in rapid hardware prototyping including PCB design and electronic circuit debugging. C is my backbone programming language and I love Python.
 
-I work at 7Next (7-Eleven R&D). For more information about me checkout the links below.
+I work at 7Next (7-Eleven R&D). Feel free to reach out to me.
 
 ## Find me around the web 🌎: 
 - Here is my [LinkedIn](https://www.linkedin.com/in/fahadmirza1/) 💼 
