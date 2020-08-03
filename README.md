@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 I am an Embedded Engineer. In layman's terms I am both a Hardware Engineer and a Software Engineer. I am competent in rapid hardware prototyping including PCB design and electronic circuit debugging. C is my backbone programming language and I love Python.
 
-I work at 7Next (7-Eleven R&D). Feel free to reach out to me.
-
 ## Find me around the web 🌎: 
 - Here is my [LinkedIn](https://www.linkedin.com/in/fahadmirza1/) 💼 
 - Some of my [Instructables](https://www.instructables.com/member/FahadM/) :notebook_with_decorative_cover:
