@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Fahad 👋
 
 <!--
 **mirzafahad/mirzafahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:inline-block;">
-    <div>Hi, I'm Fahad. I am an Embedded Engineer. In layman's terms I am a Hardware Engineer and a Software Engineer. I am competent in rapid hardware prototyping including PCB design and electronic circuit debugging. C is my backbone programming language and I love Python. </div>
-</div>
-<div style="display:inline-block;vertical-align:top;">
-    <img src="/image/dp.png" alt="Display Picture"/>
-</div>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
+
+<p><img src="/image/dp.png" alt="DP" style="width:170px;height:170px;margin-left:15px;">
+I am an Embedded Engineer. In layman's terms I am a Hardware Engineer and a Software Engineer. I am competent in rapid hardware prototyping including PCB design and electronic circuit debugging. C is my backbone programming language and I love Python.</p>
+
+</body>
