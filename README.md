@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<style>
-img {
-  float: right;
-}
-</style>
 
 
-<p><img src="/image/dp.png" alt="DP" style="width:170px;height:170px;margin-left:15px;">I am an Embedded Engineer. In layman's terms I am a Hardware Engineer and a Software Engineer. I am competent in rapid hardware prototyping including PCB design and electronic circuit debugging. C is my backbone programming language and I love Python.</p>
 
+<img align="right" src="/image/dp.png" />
+I am an Embedded Engineer. In layman's terms I am a Hardware Engineer and a Software Engineer. I am competent in rapid hardware prototyping including PCB design and electronic circuit debugging. C is my backbone programming language and I love Python.
