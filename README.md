@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 
 
-I am an Embedded Engineer. In layman's terms I am both a Hardware Designer and a Software Developer. I am competent in rapid hardware prototyping including PCB design. C is my backbone programming language and I love Python.
+I am an Embedded Engineer. It was a nice way for me to pursue both hardware and software. I am competent in rapid hardware prototyping including PCB design. C is my backbone programming language and I love Python.
 
 ## Find me around the web 🌎: 
 - Here is my [LinkedIn](https://www.linkedin.com/in/fahadmirza1/) 💼 
 - Some of my [Instructables](https://www.instructables.com/member/FahadM/) :notebook_with_decorative_cover:
 - I write sometimes on [my blog](https://mirzafahad.github.io) :writing_hand:
 
-Do you know what concert costs just 45 cents? 
-50 Cent featuring Nickelback!
+
+⚡ Fun fact: Do you know what concert costs just 45 cents? 50 Cent featuring Nickelback!
