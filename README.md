@@ -28,3 +28,6 @@ I am an Embedded Engineer. In layman's terms I am both a Hardware Designer and a
 - Here is my [LinkedIn](https://www.linkedin.com/in/fahadmirza1/) 💼 
 - Some of my [Instructables](https://www.instructables.com/member/FahadM/) :notebook_with_decorative_cover:
 - I write sometimes on [my blog](https://mirzafahad.github.io) :writing_hand:
+
+Do you know what concert costs just 45 cents? 
+- 50 Cent featuring Nickelback!
