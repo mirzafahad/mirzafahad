@@ -30,4 +30,4 @@ I am an Embedded Engineer. In layman's terms I am both a Hardware Designer and a
 - I write sometimes on [my blog](https://mirzafahad.github.io) :writing_hand:
 
 Do you know what concert costs just 45 cents? 
-- 50 Cent featuring Nickelback!
+50 Cent featuring Nickelback!
