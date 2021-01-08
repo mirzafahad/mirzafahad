@@ -31,7 +31,7 @@ C is my backbone programming language, love Python and know Java. But I'll mingl
 - Some of my [Instructables](https://www.instructables.com/member/FahadM/) :notebook_with_decorative_cover:
 - I write sometimes on [my blog](https://mirzafahad.github.io) :writing_hand:
 
-[![Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=blog&link=https://mirzafahad.github.io)](https://mirzafahad.github.io) 
+[![Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=blogger&link=https://mirzafahad.github.io)](https://mirzafahad.github.io) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mirzafahad/)](https://github.com/mirzafahad/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahadmirza1/)](https://www.linkedin.com/in/fahadmirza1/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://arduino.stackexchange.com/users/26478/fahad)](https://arduino.stackexchange.com/users/26478/fahad)
