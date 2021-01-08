@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png" width="180px"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png" width="200px"/></a>
 <br>
 <h1> <img src="https://raw.githubusercontent.com/mirzafahad/mirzafahad/master/image/Hi.gif" width="30px"> Hi, I'm Fahad!</h1>
 
@@ -35,6 +35,12 @@ C is my backbone programming language, love Python and know Java. But I'll mingl
 [![Instructables Badge](https://img.shields.io/badge/-Instructables-yellow?style=flat-square&logo=Instructables&logoColor=black&link=https://www.instructables.com/member/FahadM/)](https://www.instructables.com/member/FahadM/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mirzafahad/)](https://github.com/mirzafahad/) 
 
+
+### 📝 My Latest Blog Posts
+- [How to run Neural Network on STM32!](https://mirzafahad.github.io/2020-06-16-tflite-stm32/)
+- [Audio Visualizer Using BLE and an Android App!](https://mirzafahad.github.io/2020-07-13-audio-visualizer/)
+- [Halloween Mask using TFT displays!](https://mirzafahad.github.io/2020-10-31-halloween-mask/)
+- [Time Server for Arduino Uno!](https://mirzafahad.github.io/2020-05-17-time-server/)
 
 ⚡ Fun fact: Why did the functions stop calling each other? Because they had constant arguments!
 
