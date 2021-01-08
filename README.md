@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png"/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png" width="100px"/></a>
 
 <h1> <img src="https://raw.githubusercontent.com/mirzafahad/mirzafahad/master/image/Hi.gif" width="30px"> Hi, I'm Fahad!</h1>
 
@@ -36,5 +36,7 @@ C is my backbone programming language, love Python and know Java. But I'll mingl
 
 
 ⚡ Fun fact: Do you know what concert costs just 45 cents? 50 Cent featuring Nickelback!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h1 align='center'><i>Stay awesome!</i></h1>
