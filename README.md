@@ -28,11 +28,13 @@ C is my backbone programming language, love Python and know Java. But I'll mingl
 
 ### 📬 Find me around the web:
 
-[![Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=blogger&logoColor=black&link=https://mirzafahad.github.io)](https://mirzafahad.github.io) 
+[![Blog Badge](http://img.shields.io/badge/-Blog-red?style=flat-square&logo=blogger&logoColor=black&link=https://mirzafahad.github.io)](https://mirzafahad.github.io) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahadmirza1/)](https://www.linkedin.com/in/fahadmirza1/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://arduino.stackexchange.com/users/26478/fahad)](https://arduino.stackexchange.com/users/26478/fahad)
-[![Instructables Badge](https://img.shields.io/badge/-Instructables-yellowgreen?style=flat-square&logo=Instructables&logoColor=black&link=https://www.instructables.com/member/FahadM/)](https://www.instructables.com/member/FahadM/)
+[![Instructables Badge](https://img.shields.io/badge/-Instructables-yellow?style=flat-square&logo=Instructables&logoColor=black&link=https://www.instructables.com/member/FahadM/)](https://www.instructables.com/member/FahadM/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mirzafahad/)](https://github.com/mirzafahad/) 
 
 
 ⚡ Fun fact: Do you know what concert costs just 45 cents? 50 Cent featuring Nickelback!
+
+<h1 align='center'><i>Stay awesome!</i></h1>
