@@ -35,7 +35,7 @@ C is my backbone programming language, love Python and know Java. But I'll mingl
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mirzafahad/)](https://github.com/mirzafahad/) 
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My Latest Blog Posts
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Latest Blog Posts
 - [How to run Neural Network on STM32!](https://mirzafahad.github.io/2020-06-16-tflite-stm32/)
 - [Audio Visualizer Using BLE and an Android App!](https://mirzafahad.github.io/2020-07-13-audio-visualizer/)
 - [Halloween Mask using TFT displays!](https://mirzafahad.github.io/2020-10-31-halloween-mask/)
