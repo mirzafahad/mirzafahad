@@ -1,7 +1,6 @@
 <img align="right" src="https://github.com/mirzafahad/mirzafahad/blob/master/image/dp.png"/>
 
-# 👋 Hi, I'm Fahad!
-<h1> <img src="https://raw.githubusercontent.com/mirzafahad/mirzafahad/master/image/Hi.gif" width="30px">Hi, I'm Fahad!</h1>
+<h1> <img src="https://raw.githubusercontent.com/mirzafahad/mirzafahad/master/image/Hi.gif" width="30px"> Hi, I'm Fahad!</h1>
 
 <!--
 **mirzafahad/mirzafahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +22,9 @@ Here are some ideas to get you started:
 
 
 
-I'm most comfortable in that weird, funky world between hardware design and software development—that's where the most fun, creative, boundary-breaking work happens. I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software. I am competent in rapid hardware prototyping including PCB design. C is my backbone programming language, love Python and know Java. But I'll mingle in any language I find interesting.
+I'm most comfortable in that weird, funky world between hardware design and software development — that's where the most fun, creative, boundary-breaking work happens. 
+I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software. 
+C is my backbone programming language, love Python and know Java. But I'll mingle in any language I find interesting.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## Find me around the web 🌎: 
 - Here is my [LinkedIn](https://www.linkedin.com/in/fahadmirza1/) 💼 
