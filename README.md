@@ -40,7 +40,6 @@ C is my backbone programming language, love Python and know Java. But I'll mingl
 - [How to run Neural Network on STM32!](https://mirzafahad.github.io/2020-06-16-tflite-stm32/)
 - [Audio Visualizer Using BLE and an Android App!](https://mirzafahad.github.io/2020-07-13-audio-visualizer/)
 - [Halloween Mask using TFT displays!](https://mirzafahad.github.io/2020-10-31-halloween-mask/)
-- [Time Server for Arduino Uno!](https://mirzafahad.github.io/2020-05-17-time-server/)
 
 ⚡ Fun fact: Why did the functions stop calling each other? Because they had constant arguments!
 
