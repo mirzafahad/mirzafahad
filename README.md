@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, creative, boundary-breaking work happens. <br>
 I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software. <br>
-C is my backbone programming language, love Python and know Java. But I'll mingle in any language I find interesting. 
+C is my backbone programming language and I love Python. But I'll mingle in any language I find interesting. 
 
 ### 📬 Find me around the web:
 
