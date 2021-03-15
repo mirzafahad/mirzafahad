@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, creative, boundary-breaking work happens. <br>
 I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software. <br>
-C is my backbone programming language and I love Python. But I'll mingle in any language I find interesting. 
 
 ### 📬 Find me around the web:
 
@@ -36,6 +35,7 @@ C is my backbone programming language and I love Python. But I'll mingle in any 
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Latest Blog Posts
+- [Continuous Integration for Arduino Projects using GitHub Actions!](https://mirzafahad.github.io/2021-03-09-github-cicd-for-arduino-projects/)
 - [Build a Man-in-the-Middle System](https://mirzafahad.github.io/2021-02-21-wifi-rouge-access-point-part1/)
 - [How to run Neural Network on STM32!](https://mirzafahad.github.io/2020-06-16-tflite-stm32/)
 - [Audio Visualizer Using BLE and an Android App!](https://mirzafahad.github.io/2020-07-13-audio-visualizer/)
