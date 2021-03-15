@@ -41,7 +41,7 @@ I am an Embedded Engineer by profession, a nice way for me to pursue both hardwa
 - [Audio Visualizer Using BLE and an Android App!](https://mirzafahad.github.io/2020-07-13-audio-visualizer/)
 - [Halloween Mask using TFT displays!](https://mirzafahad.github.io/2020-10-31-halloween-mask/)
 
-⚡ Fun fact: Why did the functions stop calling each other? Because they had constant arguments!
+⚡ Why did the functions stop calling each other? Because they had constant arguments!
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
