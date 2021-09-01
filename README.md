@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, creative, boundary-breaking work happens. <br>
+I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO). <br>
 I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software. <br>
 
 ### 📬 Find me around the web:
