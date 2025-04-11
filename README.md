@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 
-I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO). <br>
-I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software. <br>
+I bring a hardware hacker’s mindset to software. Curious, detail-oriented, and obsessed with understanding systems end-to-end. <br>
+Whether it's backend logic, system behavior, or developer experience, I like knowing what’s really going on under the hood and making sure the code reflects that. <br>
 
 ### 📬 Find me around the web:
 
