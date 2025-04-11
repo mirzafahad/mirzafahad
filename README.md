@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-I bring a hardware hacker’s mindset to software. Curious, detail-oriented, and obsessed with understanding systems end-to-end. <br>
+I bring a hardware hacker’s mindset to software. Curious, detail-oriented, and obsessed with understanding systems end-to-end. 
 Whether it's backend logic, system behavior, or developer experience, I like knowing what’s really going on under the hood and making sure the code reflects that. <br>
 
 ### 📬 Find me around the web:
