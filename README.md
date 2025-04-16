@@ -36,11 +36,11 @@ Whether it's backend logic, system behavior, or developer experience, I like kno
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Latest Blog Posts
+- [Optimizing Multiple Realsense Camera Streaming on Jetson Orin!](https://mirzafahad.github.io/2025-04-14-multiple-realsense-camera-using-jetson-orin/)
 - [text, data, bss, and dec - Demystifying memory, code, and data size!](https://mirzafahad.github.io/2021-05-08-text-data-bss/)
 - [Continuous Integration for Arduino Projects using GitHub Actions!](https://mirzafahad.github.io/2021-03-09-github-cicd-for-arduino-projects/)
 - [How to run Neural Network on STM32.](https://mirzafahad.github.io/2020-06-16-tflite-stm32/)
 - [Audio Visualizer Using BLE and an Android App!](https://mirzafahad.github.io/2020-07-13-audio-visualizer/)
-- [Halloween Mask using TFT displays!](https://mirzafahad.github.io/2020-10-31-halloween-mask/)
 
 ⚡ Why did the functions stop calling each other? Because they had constant arguments!
 
